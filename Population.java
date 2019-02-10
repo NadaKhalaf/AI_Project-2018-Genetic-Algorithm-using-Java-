@@ -1,7 +1,7 @@
 package aiproject1;
 /**
  *
- * @author Layan
+ * @author Layan, Nada, Rahaf
  */
 public class Population {
     
